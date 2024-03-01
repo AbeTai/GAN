@@ -1,0 +1,1 @@
+eCommerceGAN実装のためのGAN学習履歴およびeComeerceGANの再現コード
